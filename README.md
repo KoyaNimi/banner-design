@@ -19,6 +19,9 @@ These are all created for learning purposes, and in consideration of copyrights 
 * Description: Designed with a pop style targeting users who want to enjoy casual romance.
 * Key points: Eye-catching design, pop color scheme, rounded objects.
 * Tools: Figma
+
+
+
   
 #### matching-app-consistent
 
@@ -28,6 +31,14 @@ These are all created for learning purposes, and in consideration of copyrights 
 * Key points: Visual guidance, low contrast, soft color palette.
 * Tools: Figma
 
+* * * #### point-return-campaign
+
+![point-return-campaign](point-return-campaign.png)
+
+* Description: Point redemption campaigned banner, commonly seen in flyers and other promotional materials.
+* Key points:  Emphasize the numerical part (especially 100 million yen)
+* Tools: Adobe Illustrator
+
 #### christmas-sale
 
 ![christmas-sale](christmas-sale.png)
@@ -36,13 +47,6 @@ These are all created for learning purposes, and in consideration of copyrights 
 * Key points:  The color scheme and objects express the feeling of Christmas.
 * Tools: Figma
 
-* #### point-return-campaign
-
-![point-return-campaign](point-return-campaign.png)
-
-* Description: Point redemption campaigned banner, commonly seen in flyers and other promotional materials.
-* Key points:  Emphasize the numerical part (especially 100 million yen)
-* Tools: Adobe Illustrator
 
 ## Other Design
 
@@ -53,7 +57,7 @@ Regarding LP and HP designs, they are managed in the following repositories:
 
 ## License
 
-The content of this repository is licensed under the [license].
+The content of this repository is licensed under the [MIT License](LICENSE.txt).
 
 ## Author
 
