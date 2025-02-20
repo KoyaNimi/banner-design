@@ -14,7 +14,7 @@ These are all created for learning purposes, and in consideration of copyrights 
 
 #### christmas-sale
 
-![christmas-sale](christmas-sale.png)
+![christmas-sale](christmas-sale3.png)
 
 * Description: Christmas-themed banner design commonly seen in flyers and other promotional materials.
 * Key points:  The color scheme and objects express the feeling of Christmas.
