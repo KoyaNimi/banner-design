@@ -12,6 +12,14 @@ These are all created for learning purposes, and in consideration of copyrights 
 
 ### List of Banner Designs
 
+#### christmas-sale
+
+![christmas-sale](christmas-sale.png)
+
+* Description: Christmas-themed banner design commonly seen in flyers and other promotional materials.
+* Key points:  The color scheme and objects express the feeling of Christmas.
+* Tools: Figma
+
 #### matching-app-casual
 
 ![matching-app-casual](matching-app/matching-app-casual.png)
@@ -20,9 +28,6 @@ These are all created for learning purposes, and in consideration of copyrights 
 * Key points: Eye-catching design, pop color scheme, rounded objects.
 * Tools: Figma
 
-
-
-  
 #### matching-app-consistent
 
 ![matching-app-consistent](matching-app/matching-app-consistent.png)
@@ -38,14 +43,6 @@ These are all created for learning purposes, and in consideration of copyrights 
 * Description: Point redemption campaigned banner, commonly seen in flyers and other promotional materials.
 * Key points:  Emphasize the numerical part (especially 100 million yen)
 * Tools: Adobe Illustrator
-
-#### christmas-sale
-
-![christmas-sale](christmas-sale.png)
-
-* Description: Christmas-themed banner design commonly seen in flyers and other promotional materials.
-* Key points:  The color scheme and objects express the feeling of Christmas.
-* Tools: Figma
 
 
 ## Other Design
