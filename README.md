@@ -52,7 +52,7 @@ The following works are excerpts of my favorites. Please check directly in the b
 Regarding website designs, they are managed in the following repositories:
 
 * [Website Design](https://github.com/KoyaNimi/website-design)
-* Others: [リポジトリURL]
+* [Other Design](https://github.com/KoyaNimi/other-design)
 
 ## License
 
