@@ -14,7 +14,7 @@ These are all created for learning purposes, and in consideration of copyrights 
 
 #### christmas-sale
 
-![christmas-sale](christmas-sale3.png)
+![christmas-sale](banners/christmas-sale3.png)
 
 * Description: Christmas-themed banner design commonly seen in flyers and other promotional materials.
 * Key points:  The color scheme and objects express the feeling of Christmas.
@@ -22,7 +22,7 @@ These are all created for learning purposes, and in consideration of copyrights 
 
 #### matching-app-casual
 
-![matching-app-casual](matching-app/matching-app-casual.png)
+![matching-app-casual](banners/matching-app/matching-app-casual.png)
 
 * Description: Designed with a pop style targeting users who want to enjoy casual romance.
 * Key points: Eye-catching design, pop color scheme, rounded objects.
@@ -30,15 +30,15 @@ These are all created for learning purposes, and in consideration of copyrights 
 
 #### matching-app-consistent
 
-![matching-app-consistent](matching-app/matching-app-consistent.png)
+![matching-app-consistent](banners/matching-app/matching-app-consistent.png)
 
 * Description: Designed with a calm and sophisticated feel, targeting users seeking serious relationships with marriage in mind.
 * Key points: Visual guidance, low contrast, soft color palette.
 * Tools: Figma
 
-* * * #### point-return-campaign
+#### point-return-campaign
 
-![point-return-campaign](point-return-campaign.png)
+![point-return-campaign](banners/point-return-campaign.png)
 
 * Description: Point redemption campaigned banner, commonly seen in flyers and other promotional materials.
 * Key points:  Emphasize the numerical part (especially 100 million yen)
@@ -47,9 +47,9 @@ These are all created for learning purposes, and in consideration of copyrights 
 
 ## Other Design
 
-Regarding LP and HP designs, they are managed in the following repositories:
+Regarding website designs, they are managed in the following repositories:
 
-* HP, LP Design: [リポジトリURL]
+* [Website Design](https://github.com/KoyaNimi/website-design)
 * Others: [リポジトリURL]
 
 ## License
