@@ -10,6 +10,8 @@ After that, I have experience in undertaking several banner production projects 
 
 These are all created for learning purposes, and in consideration of copyrights and confidentiality, client work deliverables are not included.
 
+The following works are excerpts of my favorites. Please check directly in the banners directory for other works.
+
 ### List of Banner Designs
 
 #### christmas-sale
